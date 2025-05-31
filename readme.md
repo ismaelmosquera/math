@@ -18,7 +18,7 @@ The example demonstrates all the funcions in the library.
 You can compile this code under any platform having a C compiler, since it uses only pure C code,  
 that is, we do not use any standard or extern header.  
   
-This work was done, mainly, for educational pourposes, addressed for audience interested in knowing how to code  
+This work was done, mainly, for educational purposes, addressed for audience interested in knowing how to code  
 these fundamental functions, you can even found how to compute the 'e' and 'pi' constants.  
 Hope that you appreciate and enjoy this work.  
   
