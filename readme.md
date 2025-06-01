@@ -10,7 +10,7 @@ To develop this piece of software, we used, mainly, Taylor | Maclaurin Series an
 > - Analytic functions: exp, log, log2, log10, pow, sqrt, curt, ithrt ...  
 > - Trigonometric functions and its inverses.  
 > - Hyperbolic functions.  
-> - Other useful general pourpose functions.  
+> - Other useful general purpose functions.  
 >  
   
 The imr_math.h header is fully documented about what each function does.  
