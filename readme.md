@@ -7,9 +7,9 @@ Here, you can find implementations like the ones in the, for instance, math.h he
   
 To develop this piece of software, we used, mainly, Taylor | Maclaurin Series and combinations of them.  
 >  
-> - Analytic functions: exp, log, log2, log10, pow, sqrt, curt, ithrt ...  
-> - Trigonometric functions and its inverses.  
-> - Hyperbolic functions.  
+> - Analytic functions: exp, log, log2, log10, pow, sqrt, curt, ithrt  
+> - Trigonometric functions: sin, cos, asin, acos, tan, atan, atan2  
+> - Hyperbolic functions: sinh, cosh, tanh, atanh  
 > - Other useful general purpose functions.  
 >  
   
