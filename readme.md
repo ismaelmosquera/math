@@ -1,9 +1,9 @@
   
-#### **MATH**  
+### **Math Library**  
   
   
 This repository offers a complete math library where all functions were coded from the scratch.  
-Here, you can find implementations like the ones in the, for instance, math.h header included in any C compiler.  
+Here, you can find function implementations like the ones in the, for instance, math.h header included in any C compiler.  
   
 To develop this piece of software, we used, mainly, Taylor | Maclaurin Series and combinations of them.  
 >  
